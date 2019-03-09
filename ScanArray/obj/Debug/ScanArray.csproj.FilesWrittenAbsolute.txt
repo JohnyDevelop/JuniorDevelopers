@@ -1,0 +1,5 @@
+/home/eugene/RiderProjects/JuniorDevelopers/ScanArray/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/eugene/RiderProjects/JuniorDevelopers/ScanArray/bin/Debug/ScanArray.exe.mdb
+/home/eugene/RiderProjects/JuniorDevelopers/ScanArray/bin/Debug/ScanArray.exe
+/home/eugene/RiderProjects/JuniorDevelopers/ScanArray/obj/Debug/ScanArray.exe
+/home/eugene/RiderProjects/JuniorDevelopers/ScanArray/obj/Debug/ScanArray.exe.mdb

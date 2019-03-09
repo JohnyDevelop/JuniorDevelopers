@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromAToB", "FromAToB\FromAT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JulyTemperature", "JulyTemperature\JulyTemperature.csproj", "{0607A70F-4935-43AA-85CC-318605979C09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScanArray", "ScanArray\ScanArray.csproj", "{59D9B41C-6BFD-49C6-9DC0-6F7CD9981A4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{0607A70F-4935-43AA-85CC-318605979C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0607A70F-4935-43AA-85CC-318605979C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0607A70F-4935-43AA-85CC-318605979C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59D9B41C-6BFD-49C6-9DC0-6F7CD9981A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D9B41C-6BFD-49C6-9DC0-6F7CD9981A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D9B41C-6BFD-49C6-9DC0-6F7CD9981A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D9B41C-6BFD-49C6-9DC0-6F7CD9981A4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
