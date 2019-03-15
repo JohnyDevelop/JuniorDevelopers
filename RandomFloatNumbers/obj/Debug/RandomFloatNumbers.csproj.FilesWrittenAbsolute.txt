@@ -1,0 +1,5 @@
+/home/eugene/RiderProjects/JuniorDevelopers/RandomFloatNumbers/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/eugene/RiderProjects/JuniorDevelopers/RandomFloatNumbers/bin/Debug/RandomFloatNumbers.exe.mdb
+/home/eugene/RiderProjects/JuniorDevelopers/RandomFloatNumbers/bin/Debug/RandomFloatNumbers.exe
+/home/eugene/RiderProjects/JuniorDevelopers/RandomFloatNumbers/obj/Debug/RandomFloatNumbers.exe
+/home/eugene/RiderProjects/JuniorDevelopers/RandomFloatNumbers/obj/Debug/RandomFloatNumbers.exe.mdb
