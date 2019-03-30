@@ -1,0 +1,5 @@
+/home/eugene/RiderProjects/JuniorDevelopers/SumOfMass/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/eugene/RiderProjects/JuniorDevelopers/SumOfMass/bin/Debug/SumOfMass.exe.mdb
+/home/eugene/RiderProjects/JuniorDevelopers/SumOfMass/bin/Debug/SumOfMass.exe
+/home/eugene/RiderProjects/JuniorDevelopers/SumOfMass/obj/Debug/SumOfMass.exe
+/home/eugene/RiderProjects/JuniorDevelopers/SumOfMass/obj/Debug/SumOfMass.exe.mdb
