@@ -1,0 +1,5 @@
+/home/eugene/RiderProjects/JuniorDevelopers/RandomForTeam/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/eugene/RiderProjects/JuniorDevelopers/RandomForTeam/bin/Debug/RandomForTeam.exe.mdb
+/home/eugene/RiderProjects/JuniorDevelopers/RandomForTeam/bin/Debug/RandomForTeam.exe
+/home/eugene/RiderProjects/JuniorDevelopers/RandomForTeam/obj/Debug/RandomForTeam.exe
+/home/eugene/RiderProjects/JuniorDevelopers/RandomForTeam/obj/Debug/RandomForTeam.exe.mdb

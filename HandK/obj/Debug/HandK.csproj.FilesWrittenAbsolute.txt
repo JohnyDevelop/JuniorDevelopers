@@ -1,0 +1,5 @@
+/home/eugene/RiderProjects/JuniorDevelopers/HandK/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/eugene/RiderProjects/JuniorDevelopers/HandK/bin/Debug/HandK.exe.mdb
+/home/eugene/RiderProjects/JuniorDevelopers/HandK/bin/Debug/HandK.exe
+/home/eugene/RiderProjects/JuniorDevelopers/HandK/obj/Debug/HandK.exe
+/home/eugene/RiderProjects/JuniorDevelopers/HandK/obj/Debug/HandK.exe.mdb

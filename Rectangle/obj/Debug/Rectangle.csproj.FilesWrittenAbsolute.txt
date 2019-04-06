@@ -1,0 +1,5 @@
+/home/eugene/RiderProjects/JuniorDevelopers/Rectangle/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/eugene/RiderProjects/JuniorDevelopers/Rectangle/bin/Debug/Rectangle.exe.mdb
+/home/eugene/RiderProjects/JuniorDevelopers/Rectangle/bin/Debug/Rectangle.exe
+/home/eugene/RiderProjects/JuniorDevelopers/Rectangle/obj/Debug/Rectangle.exe
+/home/eugene/RiderProjects/JuniorDevelopers/Rectangle/obj/Debug/Rectangle.exe.mdb
