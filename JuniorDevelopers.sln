@@ -20,6 +20,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomForTeam", "RandomForT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandK", "HandK\HandK.csproj", "{772D68D2-DA84-4F31-B121-AC84C13C26A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programers", "Programers\Programers.csproj", "{08B16880-4EA5-4CCF-B8B3-39A9E1CBCE3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewStructProject", "NewStructProject\NewStructProject.csproj", "{8544B09F-17C0-497F-BB6D-DD76FF91A989}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +70,13 @@ Global
 		{772D68D2-DA84-4F31-B121-AC84C13C26A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{772D68D2-DA84-4F31-B121-AC84C13C26A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{772D68D2-DA84-4F31-B121-AC84C13C26A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08B16880-4EA5-4CCF-B8B3-39A9E1CBCE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B16880-4EA5-4CCF-B8B3-39A9E1CBCE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B16880-4EA5-4CCF-B8B3-39A9E1CBCE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B16880-4EA5-4CCF-B8B3-39A9E1CBCE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8544B09F-17C0-497F-BB6D-DD76FF91A989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8544B09F-17C0-497F-BB6D-DD76FF91A989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8544B09F-17C0-497F-BB6D-DD76FF91A989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8544B09F-17C0-497F-BB6D-DD76FF91A989}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
