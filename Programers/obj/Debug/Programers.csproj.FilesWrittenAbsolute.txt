@@ -1,0 +1,5 @@
+/home/eugene/RiderProjects/JuniorDevelopers/Programers/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/eugene/RiderProjects/JuniorDevelopers/Programers/bin/Debug/Programers.exe.mdb
+/home/eugene/RiderProjects/JuniorDevelopers/Programers/bin/Debug/Programers.exe
+/home/eugene/RiderProjects/JuniorDevelopers/Programers/obj/Debug/Programers.exe
+/home/eugene/RiderProjects/JuniorDevelopers/Programers/obj/Debug/Programers.exe.mdb
