@@ -1,0 +1,5 @@
+/home/eugene/RiderProjects/JuniorDevelopers/Sorts/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/eugene/RiderProjects/JuniorDevelopers/Sorts/bin/Debug/Sorts.exe.mdb
+/home/eugene/RiderProjects/JuniorDevelopers/Sorts/bin/Debug/Sorts.exe
+/home/eugene/RiderProjects/JuniorDevelopers/Sorts/obj/Debug/Sorts.exe
+/home/eugene/RiderProjects/JuniorDevelopers/Sorts/obj/Debug/Sorts.exe.mdb

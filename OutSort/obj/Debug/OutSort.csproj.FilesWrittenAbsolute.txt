@@ -1,0 +1,5 @@
+/home/eugene/RiderProjects/JuniorDevelopers/OutSort/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/eugene/RiderProjects/JuniorDevelopers/OutSort/bin/Debug/OutSort.exe.mdb
+/home/eugene/RiderProjects/JuniorDevelopers/OutSort/bin/Debug/OutSort.exe
+/home/eugene/RiderProjects/JuniorDevelopers/OutSort/obj/Debug/OutSort.exe
+/home/eugene/RiderProjects/JuniorDevelopers/OutSort/obj/Debug/OutSort.exe.mdb
